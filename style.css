@@ -43,6 +43,9 @@ body {
   color: hsl(20, 25%, var(--tx-lightness));
   transition: 100ms;
   animation: show 100ms;
+  /* animation: show 100ms;
+  animation: show 100ms;
+  animation: show 100ms; */
 }
 @keyframes show {
   0% {
